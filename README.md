@@ -15,16 +15,16 @@ This project is a **real-time Player Re-Identification system** built using YOLO
 
 ---
 
-## 📁 Project Structure
-player_reid/
-├── main.py # Entry point to run the system
-├── reid_system.py # Main logic for detection, tracking, ID assignment
-├── track.py # Track class to manage individual player states
-├── utils.py # Utility functions (IOU, histogram, similarity)
-├── config.py # Configurable constants (thresholds, weights)
-├── requirements.txt # Python dependencies
-├── input_video.mp4 # [Your video here]
-└── output_reid.mp4 # [Auto-generated output]
+## 📁 Project Structure <br> 
+player_reid/ <br>
+├── main.py # Entry point to run the system<br>
+├── reid_system.py # Main logic for detection, tracking, ID assignment<br>
+├── track.py # Track class to manage individual player states<br>
+├── utils.py # Utility functions (IOU, histogram, similarity)<br>
+├── config.py # Configurable constants (thresholds, weights)<br>
+├── requirements.txt # Python dependencies<br>
+├── input_video.mp4 # [Your video here]<br>
+└── output_reid.mp4 # [Auto-generated output]<br>
 
 
 
